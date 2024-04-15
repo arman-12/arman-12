@@ -36,7 +36,7 @@ I am Md. Arman Hossen, an undergraduate computer science student at a public uni
 ## Time spend coding
 &ensp;&ensp; [![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@arman_12)
 
-[![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=arman-12&custom_title=Detailed+time&theme=dark&hide_border=true)](https://wakatime.com/@arman_12)
+[![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=arman_12&custom_title=Detailed+time&theme=dark&hide_border=true)](https://wakatime.com/@arman_12)
 
 </details>
 
