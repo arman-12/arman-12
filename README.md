@@ -42,7 +42,7 @@ I am Md. Arman Hossen, an undergraduate computer science student at a public uni
 
 <div align="center">
 
-![Profile view count](https://komarev.com/ghpvc/?username=arman-12&style=flat-square)  
+![Profile view count](https://komarev.com/ghpvc/?username=arman_12&style=flat-square)  
 
 ## Get in touch
 
